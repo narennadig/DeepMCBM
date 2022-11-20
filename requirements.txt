@@ -1,0 +1,7 @@
+torch 
+neptune-client
+torchvision
+matplotlib
+scikit-learn
+natsort
+matplotlib

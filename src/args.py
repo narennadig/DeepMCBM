@@ -4,7 +4,7 @@ DATA_DIR = "./input"
 OUTPUT_DIR = "./output"
 CKPT_DIR = "./checkpoints"
 MCBM_CKPT = "tennis.ckpt"
-SEQUENCE = "tennis"
+SEQUENCE = "stairs"
 
 
 def get_argparser():
